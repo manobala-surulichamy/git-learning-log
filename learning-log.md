@@ -9,3 +9,9 @@ I am learning Git and version control to track my work
 -understands how commit works
 -learn branching and merging
 -push my work to github
+
+## What I learned Today (29-october)
+- learned about what git init & git add and git commit -m does
+-git init --> Intialize repository means we are telling Git to initialize Version control in this folder
+- git add --> "I'm telling Git to prepare the changes in this file so that I can save them in the next commit."
+-git commit --> Save those staged changes as a version in Git history
