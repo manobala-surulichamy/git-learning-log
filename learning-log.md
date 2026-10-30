@@ -16,3 +16,9 @@ I am learning Git and version control to track my work
 - git add --> "I'm telling Git to prepare the changes in this file so that I can save them in the next commit."
 -git commit --> Save those staged changes as a version in Git history
 - adding analogy of my kid so that i understand very well,since he is non-verbal autistic he observes all happening around him but unless untill i say him to do it he wont make any movement thats how git works like.detects changes but dont auto commit unless untill we make the commit
+
+
+## What I learned Today (30-october)
+- hot to create branch and switch between branches 
+- (git checkout -b add-resources ) -->single command create a branch names add-resources and switch to it 
+- git branch --> tells which branch we are in 
