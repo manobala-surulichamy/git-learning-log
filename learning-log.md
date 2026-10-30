@@ -15,3 +15,8 @@ I am learning Git and version control to track my work
 -git init --> Intialize repository means we are telling Git to initialize Version control in this folder
 - git add --> "I'm telling Git to prepare the changes in this file so that I can save them in the next commit."
 -git commit --> Save those staged changes as a version in Git history
+
+## What I learned Today (30-october)
+- hot to create branch and switch between branches 
+- (git checkout -b add-resources ) -->single command create a branch names add-resources and switch to it 
+- git branch --> tells which branch we are in 
